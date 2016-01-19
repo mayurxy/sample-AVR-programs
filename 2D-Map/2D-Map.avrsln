@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "2D-Map", "2D-Map\2D-Map.avrgccproj", "{AF301BFF-48CF-4A36-8C9F-03F22514A258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF301BFF-48CF-4A36-8C9F-03F22514A258}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AF301BFF-48CF-4A36-8C9F-03F22514A258}.Debug|AVR.Build.0 = Debug|AVR
+		{AF301BFF-48CF-4A36-8C9F-03F22514A258}.Release|AVR.ActiveCfg = Release|AVR
+		{AF301BFF-48CF-4A36-8C9F-03F22514A258}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
